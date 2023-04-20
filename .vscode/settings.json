@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.plantuml": "plantuml",
+        "iostream": "cpp"
+    }
+}
